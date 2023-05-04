@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.seats-list{
+  display: flex;
+  gap:4rem;
+  flex-wrap: wrap;
+  flex-basis:25%;
+}
+
+.booking{
+  display: flex;
+  gap: 3rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -1,0 +1,18 @@
+.Seats{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 10px;
+    height: 80px;
+    width:60px;
+}
+
+#booked{
+    background-color: rgba(255, 0, 0, 0.858);
+    color: white;
+}
+
+#available{
+    background-color: green;
+    color: white;
+}
+
